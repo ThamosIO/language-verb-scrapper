@@ -1,0 +1,13 @@
+{
+  "name": "language-verb-scrapper",
+  "version": "0.1.0",
+  "description": "A scrapper for the dictionary bab.la.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Thomas Raimond",
+  "dependencies": {
+    "scrape-it": "5.2.3"
+  }
+}
